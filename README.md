@@ -1,4 +1,6 @@
-# IADD
+Universidade Federal de Alagoas - UFAL
+Instituto de Computação
+Disciplina: #Fundamentos de Inteligência Artificial aplicados ao Diagnóstico de Doenças (IADD)
 Códigos usados na Disciplina de Fundamentos de Inteligência Artificial aplicados ao Diagnóstico de Doenças
 
 Requerimentos:
